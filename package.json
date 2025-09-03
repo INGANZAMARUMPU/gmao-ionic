@@ -10,6 +10,7 @@
     "@ionic/cli": "^7.2.1",
     "@ionic/vue": "^8.7.3",
     "@ionic/vue-router": "^8.7.3",
+    "axios": "^1.11.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
     "vuex": "^4.0.0"
